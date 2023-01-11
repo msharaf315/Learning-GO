@@ -13,4 +13,7 @@ Gets height and weight from the user from the terminal and calculates their BMI<
 Created a Product Struct where you can create a new product from the terminal <br>
 practice for pointers and adding methods to structs <br>
 
+# 3-Arrays And Slices
+Created and manipulated arrays, dynamic arrays and slices
+
 
