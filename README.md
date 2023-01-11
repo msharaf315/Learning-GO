@@ -1,7 +1,4 @@
 # Learning-GO
 
-Following Along Academind's Course: <br>
-https://pro.academind.com/courses/1427203/<br>
-Each lesson/project will have its own branch<br>
-To run the projects:<br>
-Clone this repo, swap to the branch and run go run . <br>
+# Structs & Pointers:<br>
+Created a product struct and added methods to it to create new Products from the terminal.
