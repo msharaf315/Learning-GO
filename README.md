@@ -22,4 +22,7 @@ turn based game where a player fights monsters each round a player can attack or
 the game ends when all the monsters are defeated or the player is defeated <br>
 Enter a level to increase the dragon's might <br>
 
+# 5- Go Routines & Channels
+
+Played around with Go Routines and compared the difference in time between using them for multi threading vs running all the code synchronously
 
